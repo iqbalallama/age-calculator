@@ -1,0 +1,25 @@
+body{
+    background-color: #9999FF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.container{
+    width: 90%;
+    height: 100vh;
+}
+.text{
+    color:#FFFF99;
+}
+.input{
+    width: 45px;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+#calculate{
+    background-color: #FFFF99;
+    color:black;
+    padding: 5px 15px;
+    border: none;
+    border-radius: 5px;
+}
